@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "@types/react-gauge-chart": "^0.3.0",
+    "cypress": "^12.9.0",
     "style-loader": "^2.0.0"
   }
 }
